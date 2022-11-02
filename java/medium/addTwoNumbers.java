@@ -1,5 +1,5 @@
 class addTwoNumbers {    
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public ListNode addTwoNumberLists(ListNode l1, ListNode l2) {
     
         ListNode bang = new ListNode(0);
         ListNode l3 = bang;

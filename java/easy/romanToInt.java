@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 class romanToInt {
     
-    public int romanToInt(String s) {
+    public int convRomanToInt(String s) {
         HashMap<Character, Integer> romanN = new HashMap<Character, Integer>();
         
         romanN.put('I', 1);
